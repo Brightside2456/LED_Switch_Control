@@ -5,7 +5,7 @@
 >>It utilizes the vendor ID and Product id tof the specified board and establishes aconnection for serial communication with it
 ## Arduino Code ##
 >The board opens up its serial port and 'listens' for any comands and acts on it based on the specified command
->>The led was connedted to pin 9 in this case
+>>The led was connected to pin 9 in this case
 
 # Things to note #
 
